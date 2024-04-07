@@ -1,20 +1,6 @@
 # README
 
 ## What is This Project
-This is a basic port scanning project that I am hoping to expand upon to give it more functionality.
+This is a repository containing my projects for difference to the git@github.com:cg-1256/skill-level-upper.git repository. Each individual project is contained in a sub-directory, with a corresponding number it its name. 
 
-## Running the code
-### Running the Shell Script
-
-> chmod +x run.sh;
->
-> ./run.sh
-
-
-### Set up the Code Yourself
-
-> pip3 install -r requirements.txt;
->
-> chmod +x app.py;
-> 
-> python3 ./app.py;
+The aim of the project is to expand my own skills in all areas of programming and knowledge of cyber security. 
