@@ -1,6 +1,16 @@
-# README
+# READ ME
+## Setting up & Running the Code
+### Via Shell Script
+> chmod +x run.sh;
+>
+> ./run.sh
 
-## What is This Project
-This is a repository containing my projects in response to the [git@github.com:cg-1256/skill-level-upper.git](https://github.com/EONRaider/100-redteam-projects) repository. Each individual project is contained in a sub-directory, with a corresponding number it its name. 
 
-The aim of the project is to expand my own skills in all areas of programming and knowledge of cyber security. 
+### Set up the Code Yourself
+
+> pip3 install -r requirements.txt;
+>
+> chmod +x app.py;
+>
+> python3 ./app.py;
+~                    
